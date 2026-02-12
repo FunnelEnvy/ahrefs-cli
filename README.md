@@ -1,7 +1,7 @@
 # ahrefs-cli
 
-[![npm version](https://img.shields.io/npm/v/@marketing-clis/ahrefs-cli.svg)](https://www.npmjs.com/package/@marketing-clis/ahrefs-cli)
-[![CI](https://github.com/marketing-clis/ahrefs-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/marketing-clis/ahrefs-cli/actions/workflows/ci.yml)
+[![npm version](https://img.shields.io/npm/v/@funnelenvy/ahrefs-cli.svg)](https://www.npmjs.com/package/@funnelenvy/ahrefs-cli)
+[![CI](https://github.com/FunnelEnvy/ahrefs-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/FunnelEnvy/ahrefs-cli/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Command-line interface for the Ahrefs SEO API — query backlinks, organic keywords, referring domains, domain ratings, and site metrics from your terminal.
@@ -9,7 +9,7 @@ Command-line interface for the Ahrefs SEO API — query backlinks, organic keywo
 ## Install
 
 ```bash
-npm install -g @marketing-clis/ahrefs-cli
+npm install -g @funnelenvy/ahrefs-cli
 ```
 
 ## Quick Start
@@ -169,7 +169,7 @@ Config file location: `~/.config/ahrefs-cli/config.json`
 ## Development
 
 ```bash
-git clone https://github.com/marketing-clis/ahrefs-cli.git
+git clone https://github.com/FunnelEnvy/ahrefs-cli.git
 cd ahrefs-cli
 pnpm install
 pnpm run build
@@ -179,7 +179,7 @@ pnpm run typecheck
 
 ## Part of Marketing CLIs
 
-This tool is part of [Marketing CLIs](https://github.com/marketing-clis/marketing-clis) — open source CLIs for marketing tools that have APIs but lack command-line interfaces.
+This tool is part of [Marketing CLIs](https://github.com/FunnelEnvy/marketing-clis) — open source CLIs for marketing tools that have APIs but lack command-line interfaces.
 
 ## License
 

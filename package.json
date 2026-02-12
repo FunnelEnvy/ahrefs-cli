@@ -1,5 +1,5 @@
 {
-  "name": "@marketing-clis/ahrefs-cli",
+  "name": "@funnelenvy/ahrefs-cli",
   "version": "0.1.0",
   "description": "Command-line interface for the Ahrefs SEO API — backlinks, organic keywords, referring domains, and more",
   "type": "module",
@@ -29,7 +29,7 @@
     "backlinks",
     "domain-rating"
   ],
-  "author": "Marketing CLIs Contributors",
+  "author": "FunnelEnvy",
   "license": "MIT",
   "dependencies": {
     "chalk": "^5.3.0",
